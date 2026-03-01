@@ -1,0 +1,1 @@
+"""Aetherfall game package."""

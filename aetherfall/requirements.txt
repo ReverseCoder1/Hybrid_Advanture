@@ -1,0 +1,5 @@
+torch
+numpy
+nltk
+colorama
+streamlit>=1.28.0
